@@ -41,28 +41,303 @@ Final class grades for this course will be self-evaluated provided that students
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Modern Symptoms | &nbsp; |
-| 3 | What is Practice? | &nbsp; |
-| 4 | What is Practice? (cont.) | Presentations / Workshop of 'Practice' due |
-| 5 | What is Practice? (cont.) | &nbsp; |
-| 6 | Managerial and Control Society | Presentations |
-| 7 | Managerial and Control Society (cont.) | &nbsp; |
-| 8 | Managerial and Control Society (cont.) | Presentations |
-| 9 | Managerial and Control Society (cont.) | &nbsp; |
-| 10 | Counter Practices: Creating Realities | Presentations |
-| 11 | Counter Practices: Creating Realities (cont.) | Midterm Project due two days after this session |
-| 12 | Counter Practices: Improvisation | &nbsp; |
-| 13 | Counter Practices: Sleep | &nbsp; |
-| 14 | Academic Apparatus: MIT | Presentations |
-| 15 | Academic Apparatus: MIT (cont.) | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Academic Apparatus: Classroom {{< br >}}{{< br >}} _Guest_: Manuel Cirauqui, Assistant Curator at [Dia Art Foundation](http://www.diaart.org/) {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Academic Apparatus: Classroom (cont.) | &nbsp; |
-| 18 | Final Presentations Day 1 | Final Project due |
-| 19 | Final Presentations Day 2 | &nbsp; |
-| 20 | Exhibition | &nbsp; |
-| 21 | Critique | &nbsp; |
-| 22 | Exit Strategies | &nbsp; |
-| 23 | Exit Strategies (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Symptoms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+What is Practice?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+What is Practice? (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations / Workshop of 'Practice' due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+What is Practice? (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial and Control Society
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial and Control Society (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial and Control Society (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial and Control Society (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Counter Practices: Creating Realities
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Counter Practices: Creating Realities (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Project due two days after this session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Counter Practices: Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Counter Practices: Sleep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Academic Apparatus: MIT
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Academic Apparatus: MIT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Academic Apparatus: Classroom
+
+_Guest_: Manuel Cirauqui, Assistant Curator at [Dia Art Foundation](http://www.diaart.org/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Academic Apparatus: Classroom (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations Day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations Day 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Exhibition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Critique
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Exit Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exit Strategies (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
